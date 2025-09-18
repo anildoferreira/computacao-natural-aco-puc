@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22413008/README.md)
 # **Otimização de Rota com Colônia de Formigas (Computação Natural)**
 
 Este repositório contém a implementação e análise de um algoritmo de Otimização por Colônia de Formigas (OCF) para resolver o Problema do Caixeiro-Viajante (PCV). O projeto foi desenvolvido como parte da disciplina de Computação Natural da PUC.
