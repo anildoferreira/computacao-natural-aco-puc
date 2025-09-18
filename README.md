@@ -1,2 +1,1 @@
-# computacao-natural-aco-puc
-Projeto da disciplina de Computação Natural para otimização de rota com Algoritmo de Colônia de Formigas, aplicado a um conjunto de 10 PUCs.
+![Imagem do mapa com a rota otimizada](URL_DA_SUA_IMAGEM_AQUI)
