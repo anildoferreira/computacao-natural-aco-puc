@@ -36,7 +36,7 @@ Foram realizados experimentos com os parâmetros alpha (influência do feromôni
 O projeto foi desenvolvido em um ambiente de notebook (Jupyter/Google Colab).
 
 1. **Clone o repositório:**  
-   git clone \[https://github.com/seu-usuario/seu-repositorio.git\](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone [\[https://github.com/seu-usuario/seu-repositorio.git\](https://github.com/seu-usuario/seu-repositorio.git)](https://github.com/anildoferreira/computacao-natural-aco-puc.git)
 
 2. **Abra o Notebook:**  
    * Carregue o arquivo AS2\_Codigo\_Anildo\_de\_Abreu Ferreira.ipynb no Google Colab ou em uma instância local do Jupyter.  
